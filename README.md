@@ -22,18 +22,5 @@ Taking computer science and engineering
     </li>
 </ul>
 <br>
-<h3>🧪 Github Status</h3>
-<div align="center">
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=datSunky&theme=github_dark&include_all_commits=true" 
-  height="145em"/>
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datSunky&layout=compact&theme=github_dark" height="145em"/>
-</a>
-</div>
-<br>
-<div align="center">
-    <img width="50%" src="./assets/animation.gif">
-</div>
+
 
