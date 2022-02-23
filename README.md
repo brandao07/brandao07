@@ -7,20 +7,3 @@ He/him +19
 Music enthusiast
 <br>
 Taking computer science and engineering
-
-<h3>🚀 Currently working with</h3>
-<ul>
-    <li>
-        <p>
-             <img src="./assets/c.svg" width="25px">
-        </p>
-    </li>
-    <li>
-        <p>
-            <img src="./assets/java.svg" width="25px">
-        </p>
-    </li>
-</ul>
-<br>
-
-
