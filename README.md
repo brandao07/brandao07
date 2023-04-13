@@ -9,6 +9,7 @@
 <li>🎓 I’m currently a bachelor's finalist.</li>
 <li>😼 Learning about <strong>Golang</strong>, <strong>microservices architecture</strong>, and a bit of <strong>TypeScript</strong>.</li>
 <li>🎵 I love music, it keeps me calm and focused.</li>
+<li>🤓 Finding time and motivation to properly learn the neovim ecosystem</li>
 </ul>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
