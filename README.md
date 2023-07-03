@@ -1,12 +1,11 @@
 <h2>Hey 👋, I'm <a href="https://linktr.ee/brandao07">André</a></h2>
-<p>I'm a computer engineering student from Portugal.</p>
+<p>I'm a software engineer from Portugal.</p>
 <a href="https://www.linkedin.com/in/andre-brandao07/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge">
 </a>
 <a href="https://open.spotify.com/user/tr952j06ubabzs1ucrnts0ip7?si=e63d4d73b7fc4246"><img src="https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/tr952j06ubabzs1ucrnts0ip7?si=e63d4d73b7fc4246" alt="Spotify Badge">
 </a>
 <h2> ⚡️ A Few Quick Facts </h2>
 <ul>
-<li>🎓 I’m currently a bachelor's finalist.</li>
 <li>😼 Learning about <strong>Golang</strong>, <strong>microservices architecture</strong>, and a bit of <strong>TypeScript</strong>.</li>
 <li>🎵 I love music, it keeps me calm and focused.</li>
 <li>🤓 Finding time and motivation to properly learn the neovim ecosystem</li>
