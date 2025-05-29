@@ -1,20 +1,38 @@
-<!--
-**brandao07/brandao07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=500&color=F25454&center=true&width=435&height=90&lines=Hey+I'm+Andr%C3%A9;Software+Engineer" alt="Typing SVG" /></a>
+</p>
 
-Here are some ideas to get you started:
+### 🦇 Hi there!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently finishing my Master’s in **Fullstack Engineering / Software Development and Validation** and actively looking for backend roles (DevOps is also on the horizon).
+- 👯 I’m looking to collaborate on **projects that enhance my software architecture skills**, especially with microservices or distributed systems.
+- 🤝 I’m open to **collaborating with companies on a thesis project**, ideally with long-term potential.
+- 🌱 I’m currently learning and reinforcing concepts around **software design, Go, and scalable backend systems** as I wrap up my degree.
+- 💬 Ask me about:
+  - **Software Architecture** (Microservices, Monolithic, Client-Server)
+  - **Go**, **Java**, **Python**
+- ⚡ Fun fact: I’m a huge **fiction reader 📚** and always have **music playing 🎧** — it helps me focus and keeps the vibes going!
+
+
+<details open> 
+  <summary><h2>💻 Tech Stack</h2></summary>
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+</details>
+
+<details open> 
+  <summary><h2>📊 GitHub Stats</h2></summary>
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brandao07&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</details>
+
+---
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F25454&center=true&width=435&lines=aligned+in+logic;driven+by+purpose;guided+by+passion;333" alt="Typing SVG" /></a>
+  <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F25454&center=true&width=435&lines=aligned+in+logic;driven+by+purpose;guided+by+passion;333" alt="Typing SVG" /></a>
 </p>
 
