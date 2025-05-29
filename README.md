@@ -5,7 +5,7 @@
 
 ### 🦇 Hi there!
 
-- 🔭 I’m currently finishing my Master’s in **Fullstack Engineering / Software Development and Validation** and actively looking for backend roles (DevOps is also on the horizon).
+- 🔭 I’m currently finishing my Master’s in **Software Engineering** and actively looking for backend roles (DevOps is also on the horizon).
 - 👯 I’m looking to collaborate on **projects that enhance my software architecture skills**, especially with microservices or distributed systems.
 - 🤝 I’m open to **collaborating with companies on a thesis project**, ideally with long-term potential.
 - 🌱 I’m currently learning and reinforcing concepts around **software design, Go, and scalable backend systems** as I wrap up my degree.
