@@ -10,7 +10,7 @@
 - 💬 Ask me about:
   - **Software Architecture** 
   - **Go**, **Java**, **Python**
-- ⚡ Fun fact: I’m a huge **fiction reader 📚** and always have **music playing 🎧** — it helps me focus and keeps the vibes going!
+- ⚡ Fun fact: I’m a huge **fiction reader 📚** and always have **music playing 🎧**.
 
 ### 💻 Tech Stack
 
@@ -19,5 +19,3 @@
 <p align="center">
   <img src="./gopher.png" alt="Gopher" style="width: 25%;">
 </p>
-
----
