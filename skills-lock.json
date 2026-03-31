@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "skills": {
+    "api-documentation-generator": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "computedHash": "eaba03ac6921892f4eaac0c0c87184bdf62fba84ef7c62e8b73cf4524ae1a897"
+    },
+    "api-patterns": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "computedHash": "71d6f10cb23212c235a6bc454ed220e6d94d758622e9c3b75121c6d058969030"
+    },
+    "api-security-best-practices": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "computedHash": "ce16d10df486a28a3ba894d646de3243fc2bf9990f563fc7a9b074fd720e24d5"
+    },
+    "backend-dev-guidelines": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "computedHash": "f32c0e523f3956accb9ec76fe74d4aedb685163daef6fedecf45adffc9052ecb"
+    },
+    "clean-code": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "computedHash": "af77b8995f255140f1643de753007baf87b734e8b87175489524aadc3559c42a"
+    },
+    "clickhouse-best-practices": {
+      "source": "clickhouse/agent-skills",
+      "sourceType": "github",
+      "computedHash": "2b8d018f92874e50d28d9c1d18dd3d979e6750c9a322f4f54984da69454292d2"
+    },
+    "clickhouse-query-optimization": {
+      "source": "obsessiondb/clickhouse-skills",
+      "sourceType": "github",
+      "computedHash": "374f8461db41e6c65e9d941c2f30fb754500ff598f6e7efead0f9dd306f26d49"
+    },
+    "conventional-commits": {
+      "source": "patricio0312rev/skills",
+      "sourceType": "github",
+      "computedHash": "1a9b826315006b8bf32126c8391f7f11e8ed090b8506f029ccca165cb4f438dc"
+    },
+    "create-pr": {
+      "source": "davila7/claude-code-templates",
+      "sourceType": "github",
+      "computedHash": "d74f900e2088762615defa130bbea78c3e3c1c2e5042f483a7c875747cf8d565"
+    },
+    "deep-review": {
+      "source": "coder/mux",
+      "sourceType": "github",
+      "computedHash": "6795f6929c658add14473726cb9173b84975b078be5c076988d5172926548749"
+    },
+    "docker-expert": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "computedHash": "76bd52d934142cb8f3861cb37f2a39ad93bf3b03dcbc94a02beaa0544f6dd7c2"
+    },
+    "excalidraw-diagram": {
+      "source": "coleam00/excalidraw-diagram-skill",
+      "sourceType": "github",
+      "computedHash": "fc91249969c7c1adc1f810ddfe10f18e206b78609467bb4955248e9138932e8a"
+    },
+    "golang": {
+      "source": "saisudhir14/golang-agent-skill",
+      "sourceType": "github",
+      "computedHash": "9b51b75f48443bd04c8a34774aa0ba600eb78f2b6653f3673f38105a41e0e417"
+    },
+    "postgresql-best-practices": {
+      "source": "wimolivier/postgresql-best-practices",
+      "sourceType": "github",
+      "computedHash": "c1c0257edbe1bb360ccca6223eac79a0903c510f46ae356fafe020da9114de61"
+    },
+    "software-architecture": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "computedHash": "de98595ceee4cf6e97dc88a80f8693a614c10e70170562b692531a60e655d57d"
+    },
+    "testing-patterns": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "computedHash": "a026d53c9111e0861cee7f1a2ea19fa1896a2eb4fd093b51b7dcb6338e7f64c7"
+    }
+  }
+}
