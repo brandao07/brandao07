@@ -19,7 +19,7 @@
   *André Brandão, Diogo Matos, Miguel Guimarães, Simão Cunha, João Saraiva*  
   Greenvolve @ SANER 2026, Limassol, Cyprus  
   [Workshop page](https://conf.researchr.org/details/saner-2026/saner-2026-workshops-tutorials-track/16/The-Green-Side-of-the-Lua)      
-  [Paper DOI](https://arxiv.org/abs/2601.16670)    
+  [Paper DOI](https://ieeexplore.ieee.org/document/11500263)    
   [Replication Package](https://doi.org/10.6084/m9.figshare.29336132)
 
 - ### Towards a More Accurate Understanding of Programming Language Energy Efficiency  
