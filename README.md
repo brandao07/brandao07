@@ -17,7 +17,7 @@
 
 - ### The Green Side of Lua  
   *André Brandão, Diogo Matos, Miguel Guimarães, Simão Cunha, João Saraiva*  
-  Greenvolve @ SANER 2026, Limassol, Cyprus  
+  2026 IEEE International Conference on Software Analysis, Evolution and Reengineering - Companion (SANER-C)   
   [Workshop page](https://conf.researchr.org/details/saner-2026/saner-2026-workshops-tutorials-track/16/The-Green-Side-of-the-Lua)      
   [Paper DOI](https://doi.org/10.1109/SANER-C67878.2026.00033)    
   [Replication Package](https://doi.org/10.6084/m9.figshare.29336132)
